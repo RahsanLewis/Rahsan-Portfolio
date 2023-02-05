@@ -32,7 +32,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Installation
 
-- Deployment link: https://rahsanlewis.github.io/Portfolio/
+- Deployment link: https://rahsanlewis.github.io/Rahsan-Portfolio/
 
 ## Usage
 
