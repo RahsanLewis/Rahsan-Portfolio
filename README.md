@@ -2,7 +2,7 @@
 
 ## Description
 
--An online portfolio designed to feature the different webpages i've developed so far in my career.
+An online portfolio designed to feature the different webpages i've developed so far in my career.
 
 ## Acceptance Criteria
 
@@ -32,17 +32,17 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Installation
 
-- Deployment link: https://rahsanlewis.github.io/Rahsan-Portfolio/
+Deployment link: https://rahsanlewis.github.io/Rahsan-Portfolio/
 
 ## Usage
 
-- Use the navigation bar to explore the webpage and view all of the different wepages i've developed.
+Use the navigation bar to explore the webpage and view all of the different wepages i've developed.
 
-![alt text](css\images\portfoliopic.jpg)
+![Screenshot](./css/images/portfoliopic.jpg)
 
 ## Credits
 
-- Rahsan Lewis
+Rahsan Lewis
 
 ## License
 
